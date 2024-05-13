@@ -9,4 +9,5 @@ Create a machine learning model that can predict the genre of a movie based on i
  **CREDIT CARD FRAUDDETECTION**
 
  Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.
+ 
  Note : Csv File Is Taken From Kaggle https://www.kaggle.com/ change path Csv(Macintosh)
