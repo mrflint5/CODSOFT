@@ -1,30 +1,12 @@
- # CODSOFT INTERNSHIP PROJECTS
- **PROJECT 1**
- 
- **MOVIE GENRE CLASSIFICATION**
+📌 CODSOFT Internship Projects 🚀
+🎬 Project 1: Movie Genre Classification
+Build a machine learning model to predict a movie’s genre from its plot summary or textual details using TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or SVM. (Data collected from Kaggle) 📂
 
- Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive 
- Bayes, Logistic Regression, or Support Vector Machines
+💳 Project 2: Credit Card Fraud Detection
+Develop a model to identify fraudulent transactions from credit card data. Test algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate. (Dataset collected from Kaggle — update CSV path for macOS) 📂
 
- **PROJECT 2**
+📉 Project 3: Customer Churn Prediction
+Predict whether a customer will leave a subscription-based service using historical data such as usage behavior and demographics. Apply algorithms like Logistic Regression, Random Forest, or Gradient Boosting for accurate predictions. (Data collected from Kaggle) 📂
 
- **CREDIT CARD FRAUDDETECTION**
-
- Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or 
- Random Forests to classify transactions as fraudulent or legitimate.
- 
- Note : Csv File Is Taken From https://www.kaggle.com/ change path to csv(Macintosh)
-
- **PROJECT 3**
-
- **CUSTOMER CHURN PREDICTION** 
-
- Develop a model to predict customer churn for a subscription based service or business. Use historical customer data, including features like usage behavior and customer demographics, and try algorithms like 
- Logistic Regression, Random Forests, or Gradient Boosting to predict churn
-
- **PROJECT 4**
-
-  **SPAM SMS DETECTION**
-
-  Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with
-  classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages
+📲 Project 4: Spam SMS Detection
+Create an AI model that classifies SMS messages as spam or ham using TF-IDF or word embeddings with models like Naive Bayes, Logistic Regression, or SVM to ensure safe and clean communication. (Data collected from Kaggle) 📂
